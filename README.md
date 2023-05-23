@@ -1,4 +1,2 @@
 # basicPythonCode
-Basic python like how to store dictonory, list,tupple, set, etc.
-Data Types.
-how to find positions of letters.
+Overview: basic operations done in pyhton for beginners, with examples of list, dictionary, tuples, and loops.
